@@ -35,6 +35,3 @@ while (true) {
         y += radius * 2 - 1
     }
 }
-<script>
-alert('But wait, there\'s more...');
-</script>
